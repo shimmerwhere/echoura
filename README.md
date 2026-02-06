@@ -343,7 +343,7 @@ A place where creators can bring to life the ideas that feel too strange, too ge
 
 ## Contributing
 
-Echoura is part of the Shimmerwhere universe, built by [iris @ hazesync](https://github.com/hazesync).
+Echoura is part of the Shimmerwhere universe, built by [z @ i change my username everyday](https://github.com/).
 
 All contributions, ideas, and cat applications welcome.
 
@@ -352,7 +352,7 @@ All contributions, ideas, and cat applications welcome.
 *Part of the [Shimmerwhere](https://github.com/shimmerwhere) universe*  
 *Styled with catgloss*
 
-made with insomnia + lavender tea — iris ✿
+made with insomnia + lavender tea — z ✿
 
 ---
 
