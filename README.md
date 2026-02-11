@@ -343,7 +343,7 @@ A place where creators can bring to life the ideas that feel too strange, too ge
 
 ## Contributing
 
-Echoura is part of the Shimmerwhere universe, built by [z @ LAVENDERISH](https://github.com/LAVENDERISH).
+Echoura is part of the Shimmerwhere universe, built by [z @ SLOWSYNCED](https://github.com/SLOWSYNCED).
 
 All contributions, ideas, and cat applications welcome.
 
