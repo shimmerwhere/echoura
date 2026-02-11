@@ -1,7 +1,6 @@
 # Echoura Institute
 
-> *"Where every cat’s aura echoes in the sunbeam.”
----
+> *"Where every cat’s aura echoes in the sunbeam.”* 
 
 ## What is Echoura?
 
